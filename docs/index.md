@@ -1,4 +1,4 @@
-# PWEB21: Cronologías para los proyectos en equipo
+# PWEB22: Cronologías para los proyectos en equipo
 
 Estas son las cronologías creadas durante el curso 2022/2023:
 
