@@ -18,17 +18,17 @@ Para crear tu propia cronología, necesitarás:
       ![Font pairs](timelinejs-fonts-small.png)
     - Guarda los cambios cuando hayas acabado
 3. Sube la carpeta completa al [directorio `docs` en el repositorio GitHub](/docs): solo arrastra la carpeta desde tu explorador de archivos a la ventana del navegador. Escribe un mensaje de confirmación \(_commit_\) descriptivo (como "Primera versión del directorio grupo0", con tu número de grupo en vez de 0, por ejemplo). Asegúrate de que ![](commit-main.png) está seleccionado, y haz clic en "Commit changes".
-    - Ahora tu cronología, aunque vacía, está subida y accesible en línea a través de `https://deustokom.github.io/PWEB21-cronologia/grupo0/` (cambia `0` por tu número de grupo o `group0` por el nombre de tu carpeta).
+    - Ahora tu cronología, aunque vacía, está subida y accesible en línea a través de `https://deustokom.github.io/PWEB22-cronologia/grupo0/` (cambia `0` por tu número de grupo o `group0` por el nombre de tu carpeta).
 4. Puedes crear tu propia cronología editando el archivo `timeline-data.csv` en tu editor de hojas de cálculo (preferiblemente LibreOffice Calc):
     - Abre el archivo, y asegúrate de especificar la codificación de caracteres a `UTF-8`. 
     - AAñade una líena por cada evento que quieras mostrar en tu cronología. Para más información, puedes consultar:
-        + La cronología de muestra [women in computing](https://deustokom.github.io/PWEB21-cronologia/women-computing/), donde puedes ver los diferentes tipos de contenidos en acción
+        + La cronología de muestra [women in computing](https://deustokom.github.io/PWEB22-cronologia/women-computing/), donde puedes ver los diferentes tipos de contenidos en acción
         + Una descripción de lo que debería ir en cada columna en ["Making a timeline from a spreadsheet"](https://timeline.knightlab.com/docs/using-spreadsheets.html), en el sitio web oficial de la librería TimelineJS 
         + Una lista de los diferentes [tipos de medios](https://timeline.knightlab.com/docs/media-types.html) que puedes usar en la columna `media`  
     - Guarda el archivo, asegurándote de que lo haces en formato `.csv`
 6. Sube el archivo a GitHub arrastrándoloe: abre la carpeta correspondiente en tu navegador y arrastra el archivo csv desde tu explorador de archivos; escribe un mensaje de confirmación \(_commit_\) descriptivo (como "Imágenes añadidas a algunos eventos"), comprueba que ![](commit-main.png) está seleccionado y haz clic en "Commit changes". 
 7. Incrusta tu cronología en la página del sitio web de vuestro proyecto correspondiente usando este código (reemplaza `grupo0` con el nombre de vuestra carpeta):  
-   `<iframe src="https://deustokom.github.io/PWEB21-cronologia/grupo0/" style="width:100%;min-width:920px;min-height:600px;" frameborder="0"></iframe>`
+   `<iframe src="https://deustokom.github.io/PWEB22-cronologia/grupo0/" style="width:100%;min-width:920px;min-height:600px;" frameborder="0"></iframe>`
 
 <!-- You will find video versions of these instructions in ALUD. -->
 
