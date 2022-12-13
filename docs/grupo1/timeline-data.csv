@@ -1,19 +1,19 @@
-startYear,startMonth,startDay,startTime,endYear,endMonth,endDay,endTime,displayDate,headline,text,mediaUrl,mediaCredit,mediaCaption,mediaThumbail,type,group,backgroundUrl,backgroundColor
-,,,,,,,,,Sociedad de Ciencias Aranzadi,"A continuación procederemos con una cronología acerca de la Sociedad de Ciencias Aranzadi, donde las ciencias son básicas, independientes y accesibles para todos. Avanzaremos en dicha cronología por años, desde su creación hasta el lanzamiento de cada departamento, pasando por los estudios realizados y premios y logros obtenidos por la asociación. ",,,,,title,,,
+startYear,startMonth,startDay,startTime,endYear,endMonth,endDay,endTime,displayDate,headline,text,mediaUrl,mediaCredit,mediaCaption,mediaThumbail,type,group,backgroundUrl,backgroundColor,
+,,,,,,,,,Sociedad de Ciencias Aranzadi,"A continuación procederemos con una cronología acerca de la Sociedad de Ciencias Aranzadi, donde las ciencias son básicas, independientes y accesibles para todos. Avanzaremos en dicha cronología por años, desde su creación hasta el lanzamiento de cada departamento, pasando por los estudios realizados y premios y logros obtenidos por la asociación. ",,,,,title,,https://www.aranzadi.eus/assets/img/logo-aranzadi-black.svg,,
 1947,,,,,,,,,Creación ,"Creación de la asociación de las ciencias naturales, Aranzadi. Dicho grupo tiene como principales objetivos la investigación del medio natural y humano y, por supuesto, la divulgación de estos.
 
 Se fundó con la sencilla finalidad de dar continuidad a la labor de la Sociedad de Estudios Vascos, que fue suprimida por el régimen franquista.
 
 El lema de Aranzadi es ""Una sociedad donde las ciencias sean independientes y accesibles"", que muestra con orgullo en su página web.
-",,,,,,,,
-1949,,,,,,,,,,,,,,,,,,
-1949,,,,,,,,,,,,,,,,,,
-1951,,,,,,,,,,,,,,,,,,
-1953,,,,,,,,,,,,,,,,,,
-1955,,,,,,,,,,,,,,,,,,
-1956,,,,,,,,,,,,,,,,,,
-1962,,,,,,,,,,,,,,,,,,
-2005,5,15,,,,,,,,,,,,,,,,
-2012,,,,,,,,,,,,,,,,,,
-2021,,,,,,,,,,,,,,,,,,
-2022,11,,,,,,,,,,,,,,,,,
+",,,,,,,,,#9E643C
+1949,,,,,,,,,,,,,,,,,,,
+1949,,,,,,,,,,,,,,,,,,,
+1951,,,,,,,,,,,,,,,,,,,
+1953,,,,,,,,,,,,,,,,,,,
+1955,,,,,,,,,,,,,,,,,,,
+1956,,,,,,,,,,,,,,,,,,,
+1962,,,,,,,,,,,,,,,,,,,
+2005,5,15,,,,,,,,,,,,,,,,,
+2012,,,,,,,,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,,
+2022,11,,,,,,,,,,,,,,,,,,
