@@ -1,19 +1,19 @@
-startYear,startMonth,startDay,startTime,endYear,endMonth,endDay,endTime,displayDate,headline,text,mediaUrl,mediaCredit,mediaCaption,mediaThumbail,type,group,backgroundUrl,backgroundColor
-,,,,,,,,,﻿"Una infografía original de Netflix Netflix a lo largo de los años" ,,,,,title,,,,
-1997,9,29,2022,12,14,,,,FUNDACIÓN,"Reed Hastings y Marc Randolph fundan una Netflix, compañía de renta de DVD sin multas por retraso que llegaban a la puerta de tu casa a través del correo
+﻿startYear,startMonth,startDay,startTime,endYear,endMonth,endDay,endTime,displayDate,headline,text,mediaUrl,mediaCredit,mediaCaption,mediaThumbail,type,group,backgroundUrl,backgroundColor
+,,,,,,,,,Una infografía original de Netflix,,,,,,title ,,,
+1997,9,29,,1997,9,29,,,FUNDACIÓN,"Reed Hastings y Marc Randolph fundan una Netflix, compañía de renta de DVD sin multas por retraso que llegaban a la puerta de tu casa a través del correo
 En sus inicios, la empresa estaba conformada por 30 empleados y 925 títulos en su catálogo",https://www.economiadigital.es/wp-content/uploads/2021/06/Netflix-1-1.jpg,,,,,,,Rojo
-1999,,,,,,,,,CRECIMIENTO DEL CATÁLOGO,El catálogo aumenta a 3100 títulos y comienza el programa de suscripción mensual de $15 dólares para poder rentar hasta 4 películas al mismo tiempo ,https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2020/08/hipertextual-dia-que-blockbuster-pudo-comprar-netflix-solo-50-millones-dolares-2020779762.jpg?fit=1800%2C1295&quality=60&strip=all&ssl=1,,,,,,,
-2000,,,,,,,,,OFERTA  BLUCKBUSTER,"Suscripción aumenta a $20 dólares mensuales.
+1999,,,,1999,,,,,CRECIMIENTO DEL CATÁLOGO,El catálogo aumenta a 3100 títulos y comienza el programa de suscripción mensual de $15 dólares para poder rentar hasta 4 películas al mismo tiempo ,https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2020/08/hipertextual-dia-que-blockbuster-pudo-comprar-netflix-solo-50-millones-dolares-2020779762.jpg?fit=1800%2C1295&quality=60&strip=all&ssl=1,,,,,,,
+2000,,,,2000,,,,,OFERTA  BLUCKBUSTER,"Suscripción aumenta a $20 dólares mensuales.
 A pesar de que en este año Netflix ya contaba con 239,000 suscriptores, la compañía aún no generaba ingresos. Ofrecen la venta por 50 millones de dólares a Blockbuster, misma que fue rechazada.",https://i.blogs.es/d4dbcb/netflix1/1366_2000.jpg,,,,,,,
-2006,,,,,,,,,AUMENTAN LOS INGRESOS,6 millones de suscriptores que generaban ingresos de 80 millones de dólares ,https://img.freepik.com/vector-premium/aumento-ingresos-estrategia-financiera-alto-retorno-inversion-ilustracion-saldo-presupuestario-aumento-mercado-e-ingresos-crecimiento-empresarial-beneficio_229548-425.jpg,,,,,,,
-2008,,,,,,,,,WATCH NOW,Lanzan oficialmente su primer servicio de streaming llamado “Watch Now” con acceso a +2500 películas y series ,,,,,,,,
-2011,,,,,,,,,$$$$,Netflix llega a 20 millones de suscriptores con ingresos de más $2 mil millones de dólares mensuales ,,,,,,,,
-2013,,,,,,,,,PRIMERA SERIE ORIGINAL,Crean su primera serie original: House of Cards convirtiéndose en un éxito en la plataforma ,https://img.asmedia.epimg.net/resizer/eYtI-TJsFmhjJy7VTi1QexBz7xk=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/4NPOIG5EANJN3F5NNICMBNUWSQ.jpg,,,,,,,
-2017,,,,,,,,,EXITOSA PRODUCCIÓN ESPAÑOLA,La serie La Casa de Papel se convierte en la serie más exitosa de no habla inglesa de la plataforma ,https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/la-casa-de-papel-temporada-4-1585840957.jpg,,,,,,,
-2018,,,,,,,,,NETFLIX EN LOS ÓSCARES,"Gana su primer Óscar por el documental
+2006,,,,2006,,,,,AUMENTAN LOS INGRESOS,6 millones de suscriptores que generaban ingresos de 80 millones de dólares ,https://img.freepik.com/vector-premium/aumento-ingresos-estrategia-financiera-alto-retorno-inversion-ilustracion-saldo-presupuestario-aumento-mercado-e-ingresos-crecimiento-empresarial-beneficio_229548-425.jpg,,,,,,,
+2008,,,,2008,,,,,WATCH NOW,Lanzan oficialmente su primer servicio de streaming llamado “Watch Now” con acceso a +2500 películas y series ,,,,,,,,
+2011,,,,2011,,,,,$$$$,Netflix llega a 20 millones de suscriptores con ingresos de más $2 mil millones de dólares mensuales ,,,,,,,,
+2013,,,,2013,,,,,PRIMERA SERIE ORIGINAL,Crean su primera serie original: House of Cards convirtiéndose en un éxito en la plataforma ,https://img.asmedia.epimg.net/resizer/eYtI-TJsFmhjJy7VTi1QexBz7xk=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/4NPOIG5EANJN3F5NNICMBNUWSQ.jpg,,,,,,,
+2017,,,,2017,,,,,EXITOSA PRODUCCIÓN ESPAÑOLA,La serie La Casa de Papel se convierte en la serie más exitosa de no habla inglesa de la plataforma ,https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/la-casa-de-papel-temporada-4-1585840957.jpg,,,,,,,
+2018,,,,2018,,,,,NETFLIX EN LOS ÓSCARES,"Gana su primer Óscar por el documental
 “Ícaro”",https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/01/13/16420830054305.jpg,,,,,,,
-2020,,,,,,,,,NETFLIX DA POSITIVO A COVID-19,"Debido a la pandemia por COVID 19, Netflix aumenta considerablemente de suscriptores contando con más de 200 millones",https://imagenes.elpais.com/resizer/P9kZkS99J2IHc-ITsBopQXOtsK8=/1200x0/filters:focal(3077x2637:3087x2647)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/OKHMOOBCDVAVLIRAWQ3FOYMI5A.jpg,,,,,,,
-2021,,,,,,,,,INCURSIONANDO EN LOS JUEGOS ,"Expande su mercado incursionando en el mundo de los videojuegos con Netflix Games, debutando con 5 titulos ",https://www.lavanguardia.com/files/article_gallery_microformat/uploads/2021/07/15/60f0285953068.jpeg,,,,,,,
+2020,,,,2020,,,,,NETFLIX DA POSITIVO A COVID-19,"Debido a la pandemia por COVID 19, Netflix aumenta considerablemente de suscriptores contando con más de 200 millones",https://imagenes.elpais.com/resizer/P9kZkS99J2IHc-ITsBopQXOtsK8=/1200x0/filters:focal(3077x2637:3087x2647)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/OKHMOOBCDVAVLIRAWQ3FOYMI5A.jpg,,,,,,,
+2021,,,,2021,,,,,INCURSIONANDO EN LOS JUEGOS ,"Expande su mercado incursionando en el mundo de los videojuegos con Netflix Games, debutando con 5 titulos ",https://www.lavanguardia.com/files/article_gallery_microformat/uploads/2021/07/15/60f0285953068.jpeg,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
