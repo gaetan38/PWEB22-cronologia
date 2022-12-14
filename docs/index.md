@@ -6,6 +6,6 @@ Estas son las cronologías creadas durante el curso 2022/2023:
 - Grupo 0: [Título de la cronología](grupo0) `vacía`
 - Grupo 1: [Sendaviva](grupo1)
 - Grupo 2: [La evolución del transporte en el País Vasco](grupo2)
-- Grupo 3: [Balleneros](group3)
-- Grupo 4: [Nuestro título](group4)
-- Grupo 6: [Plan Donosti](group6)
+- Grupo 3: [Balleneros](grupo3)
+- Grupo 4: [Nuestro título](grupo4)
+- Grupo 6: [Plan Donosti](grupo6)
